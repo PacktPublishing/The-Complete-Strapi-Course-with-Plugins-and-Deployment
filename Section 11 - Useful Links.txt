@@ -1,0 +1,32 @@
+Strapi docs on Environment Configurations
+https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/configurations/optional/environment.html#environment-configurations
+
+Strapi docs on Database configuration
+https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/configurations/required/databases.html
+
+Strapi docs on Server configuration
+https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/configurations/required/server.html
+
+Render.com docs on Environment Variables
+https://render.com/docs/environment-variables
+
+Strapi docs on Admin configuration
+https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/configurations/required/admin-panel.html
+
+Strapi docs on Email configuration
+https://docs.strapi.io/developer-docs/latest/plugins/email.html#configure-the-plugin
+
+Strapi Nodemailer Email provider
+https://www.npmjs.com/package/@strapi/provider-email-nodemailer
+
+Strapi docs on Upload Configuration
+https://docs.strapi.io/developer-docs/latest/plugins/upload.html
+
+Strapi Cloudinary Upload provider
+https://www.npmjs.com/package/@strapi/provider-upload-cloudinary
+
+Stackoverflow question on React routing
+https://stackoverflow.com/questions/27928372/react-router-urls-dont-work-when-refreshing-or-writing-manually
+
+CRA docs on Client-side Routing
+https://create-react-app.dev/docs/deployment/#serving-apps-with-client-side-routing

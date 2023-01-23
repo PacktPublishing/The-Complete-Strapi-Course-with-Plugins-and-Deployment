@@ -1,0 +1,11 @@
+Note: course updates vs Strapi updates
+The most recent version of Strapi for which this course and its codebase have been tested and updated is:
+version 4.5.4  (updated December 2022)
+
+Come back to this lesson in the future, if you want to check for ongoing updates
+
+In the next lesson you'll be creating your Strapi project: I suggest just following along the lesson, as in that way you'll install the most recent version available, even if more recent than the one I mentioned above.
+
+Don't worry, as I frequently check my code for updates, so you shouldn't encounter particular issues due to the Strapi updates. But in case you think you've found a very recent update that introduces a bug in the course codebase, please let me know with a post in the Q&A of the lesson that is impacted.
+
+Thanks for helping me keep this course always up to date!

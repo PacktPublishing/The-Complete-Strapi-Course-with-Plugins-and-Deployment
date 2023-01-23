@@ -1,0 +1,29 @@
+Source code of the finished plugin
+https://github.com/artcoded-net/strapi-plugin-github-projects
+
+The finished plugin on the Strapi Marketplace
+https://market.strapi.io/plugins/@artcoded-strapi-plugin-github-projects
+
+Strapi docs on Plugins development
+https://docs.strapi.io/developer-docs/latest/development/plugins-development.html
+
+Octokit Request Package
+https://github.com/octokit/request.js/
+
+Strapi docs on Models
+https://docs.strapi.io/developer-docs/latest/development/backend-customization/models.html
+
+Strapi docs on Plugin Content Types
+https://docs.strapi.io/developer-docs/latest/developer-resources/plugin-api-reference/server.html#content-types
+
+The Markdown package
+https://github.com/markdown-it/markdown-it
+
+Strapi docs on Admin panel customization
+https://docs.strapi.io/developer-docs/latest/development/admin-customization.html
+
+Strapi Design System Storybook
+https://design-system-git-main-strapijs.vercel.app/
+
+Strapi Plugins docs
+https://docs.strapi.io/developer-docs/latest/plugins/plugins-intro.html

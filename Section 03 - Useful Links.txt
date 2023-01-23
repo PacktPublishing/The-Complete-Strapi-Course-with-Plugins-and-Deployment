@@ -1,0 +1,8 @@
+Strapi docs on data fields
+https://docs.strapi.io/user-docs/latest/content-types-builder/configuring-fields-content-type.html
+
+Strapi docs on relations
+https://docs.strapi.io/user-docs/latest/content-types-builder/configuring-fields-content-type.html#relation
+
+Strapi docs on Dynamic Zones
+https://docs.strapi.io/developer-docs/latest/development/backend-customization/models.html#dynamic-zones

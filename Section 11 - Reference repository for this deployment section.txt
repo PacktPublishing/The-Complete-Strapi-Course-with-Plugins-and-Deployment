@@ -1,0 +1,8 @@
+Reference repository for this deployment section
+In this section we'll be deploying our Strapi app to Render.com. This cloud provider has itself published a reference project for Strapi deployment with Render.com, which I have taken as a guideline for this section. They also have a related docs page. Here I include the links to such resources, in case you wanted to check these out, even if it's not needed at all, as we'll be building everything from scratch.
+
+Repository Link:
+https://github.com/render-examples/strapi-postgres-cloudinary
+
+Documentation Link:
+https://render.com/docs/deploy-strapi

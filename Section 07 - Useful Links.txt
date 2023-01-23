@@ -1,0 +1,29 @@
+Strapi docs on Models
+https://docs.strapi.io/developer-docs/latest/development/backend-customization/models.html
+
+Strapi docs on Lifecycle hooks
+https://docs.strapi.io/developer-docs/latest/development/backend-customization/models.html#lifecycle-hooks
+
+Strapi docs on Routes
+https://docs.strapi.io/developer-docs/latest/development/backend-customization/routes.html
+
+Strapi docs on Policies
+https://docs.strapi.io/developer-docs/latest/development/backend-customization/routes.html#policies
+
+Strapi docs on Middlewares
+https://docs.strapi.io/developer-docs/latest/development/backend-customization/routes.html#middlewares
+
+Strapi docs on Controllers
+https://docs.strapi.io/developer-docs/latest/development/backend-customization/controllers.html
+
+Strapi docs on Services
+https://docs.strapi.io/developer-docs/latest/development/backend-customization/services.html
+
+Strapi docs on Entity Service API
+https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/entity-service-api.html
+
+Strapi docs on Query Engine API
+https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/query-engine-api.html
+
+Strapi docs on Webhooks
+https://docs.strapi.io/developer-docs/latest/development/backend-customization/webhooks.html

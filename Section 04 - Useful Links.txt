@@ -1,0 +1,6 @@
+Postman download
+https://www.postman.com/downloads/
+
+Strapi docs on REST API
+https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/rest-api.html
+

@@ -1,0 +1,6 @@
+Strapi docs on GraphQL plugin
+https://docs.strapi.io/developer-docs/latest/plugins/graphql.html
+
+Nexus Documentation (only if you want to use it)
+https://nexusjs.org/docs/
+

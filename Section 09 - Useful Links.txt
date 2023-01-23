@@ -1,0 +1,3 @@
+Strapi docs on Admin Panel Customization
+https://docs.strapi.io/developer-docs/latest/development/admin-customization.html
+

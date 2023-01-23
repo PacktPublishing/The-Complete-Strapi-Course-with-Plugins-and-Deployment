@@ -1,0 +1,6 @@
+Strapi docs on REST API
+https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/rest-api.html
+
+Strapi docs on REST API parameters
+https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/rest/api-parameters.html
+

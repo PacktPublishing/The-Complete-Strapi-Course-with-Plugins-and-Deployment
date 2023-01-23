@@ -1,0 +1,5 @@
+Strapi GraphQL plugin docs
+https://docs.strapi.io/developer-docs/latest/plugins/graphql.html
+
+Strapi GraphQL API reference
+https://docs.strapi.io/developer-docs/latest/developer-resources/database-apis-reference/graphql-api.html

@@ -1,0 +1,14 @@
+Strapi GitHub Repository
+https://github.com/strapi/strapi
+
+Strapi Quick Start Guide
+https://docs.strapi.io/developer-docs/latest/getting-started/quick-start.html
+
+Docs on creating Scrapi-TypeScript project
+https://docs.strapi.io/developer-docs/latest/setup-deployment-guides/installation/cli.html#creating-a-strapi-project
+
+Docs on adding TypeScript to an existing Scrapi project
+https://docs.strapi.io/developer-docs/latest/development/typescript.html#add-typescript-support-to-an-existing-strapi-project
+
+Docs on TypeScript usage with Scrapi
+https://docs.strapi.io/developer-docs/latest/development/typescript.html
